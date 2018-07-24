@@ -279,7 +279,7 @@
 		20EAC7D221075C3500EAF67D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = icone;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 435KK8SSN6;
 				INFOPLIST_FILE = CalculaIMC/Info.plist;
@@ -297,7 +297,7 @@
 		20EAC7D321075C3500EAF67D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = icone;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 435KK8SSN6;
 				INFOPLIST_FILE = CalculaIMC/Info.plist;
